@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ジム入退室システム</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+            background-color: white;
+            padding: 2em;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        button {
+            background-color: #25D366;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1em;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 id="title">ジム入退室システム</h1>
+        <p id="message"></p>
+        <button id="sendButton" onclick="sendMessage()">WhatsAppでメッセージを送信</button>
+    </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const action = urlParams.get('action');
+        const groupLink = urlParams.get('group');
+
+        const title = document.getElementById('title');
+        const message = document.getElementById('message');
+        const sendButton = document.getElementById('sendButton');
+
+        if (action === 'entry') {
+            title.textContent = 'ジム入室';
+            message.textContent = '入室しますか？';
+        } else if (action === 'exit') {
+            title.textContent = 'ジム退室';
+            message.textContent = '退室しますか？';
+        }
+
+        function sendMessage() {
+            const text = action === 'entry' ? '入室しました。' : '退室しました。';
+            const whatsappUrl = `${groupLink}`;
+            window.location.href = whatsappUrl;
+        }
+    </script>
+</body>
+</html>
