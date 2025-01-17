@@ -1,0 +1,74 @@
+Abstract
+Context:
+The continuous proliferation of data nowadays has inspired companies to make data-informed decisions. Despite the acknowledged benefits of analytics, there is a persistent question about how companies, especially software startup companies with distinguishing characteristics, can effectively create value from it. In the startup context, analytics refers to the use of startup data and insights to inform strategies and tactics across startup business, product, team, sales, and marketing dimensions.
+Objective:
+In this study, we aim to bridge the knowledge gap by eliciting an understanding of the analytics that software startup companies hold and identifying critical challenges they face in the realm of analytics.
+Method:
+We conducted a multiple-case study with eight software startups at different startup stages. In addition to the data collected through semi-structured interviews, we considered other data sources such as analytics dashboards and online data about the startups, including websites and social media platforms. We analyzed the data using thematic analysis.
+Results:
+Our results firstly revealed a divergent understanding of analytics by software startups, based on which we reported essential characteristics of analytics perceived by them. Then we identified 22 analytics challenges classified into six main themes. The themes encompass data capture and access challenges, data interpretation and bias, communication challenges, cultural challenges, external influences and constraints, and analytics implementation challenges.
+Conclusions:
+Our findings contribute to a conceptual understanding of analytics in software startups and the identification of critical challenges faced by these startups across different stages. The conceptual understanding lays the foundation for comprehending what constitutes analytics for software startups, while the identification of challenges anticipates critical barriers to the adoption and implementation of analytics. We also provide practical implications to both researchers and practitioners.
+Introduction
+The continuous proliferation of data, nowadays, has inspired a variety of companies to make data-informed decisions. Companies are believed to better understand their businesses, markets, customers, processes, products, and services [1], [2]. Therefore, organizations across many industries are encouraged to embrace data [2], tailor it to domain-specific needs [3], and inform both long-term strategic planning and operational decisions [4]. The jargon to represent the process of deriving value from data is referred to as analytics [5]. The value is derived to facilitate the decision-making process.
+Despite the widespread benefits of analytics highlighted in both academic and practitioner pieces of literature, there persists a question regarding how organizations can create value from it [3], contributing to its relatively low adoption. For instance, in 2018, only 12% of Small and Medium-sized Enterprises (SMEs) in Europe were found employing analytics [6]. In contrast, 33% of the large companies were found using it. There are no statistics available when it comes to its adoption in software startup companies. However, companies intending to use it, their organizational structure, and culture to make decisions have an impact on their ability to generate insights from data [3]. Therefore, integrating analytics into business operations introduces a variety of challenges, especially for software startups, which are different from established organizations and SMEs [7]. This distinction in organizational setup and company culture makes the adoption of analytics even more critical in startups.
+Software startups are companies aiming to innovate software- intensive products or services while searching for sustainable and scalable business models [7]. These companies have transformed our modern-day lives. From transportation and entertainment to social media and communications, startups have influenced various aspects of our everyday lives. Uber, Netflix, Airbnb, Instagram, and Slack are a few noteworthy instances. Nevertheless, these innovative companies are often characterized by limited resources, small and inexperienced teams, little operating history, time pressure, and the dynamic and highly risky nature of their operations [8]. These characteristics pose critical challenges for startups. Thriving in technological uncertainty [9], recruiting right software development resources [10], implementing lean and agile practices [11], market-driven requirements [12], poor product development strategies [13], [14], and wrongly chosen software engineering practices [15], [16] are a few prominent challenges, resulting in a high startup failure rate. Some other studies attribute this failure to incorrect decisions [17] and uninformed decisions [15], alluding to the absence of analytics in their setups. Given these circumstances, analytics might offer support to software startups to develop the product, find product and market fit, optimize strategies, and improve decision-making.
+While there is a consensus in the literature about the potential that analytics might offer to companies, its applicability in highly uncertain and reactive environments, like software startups, is overlooked. Therefore, in this study, we aim to bridge this knowledge gap by eliciting an understanding of the analytics that these companies hold and identifying critical challenges they face in the realm of analytics.We employed a multiple-case study method [18] to collect and analyze data on analytics in software startups. In particular, we conducted our research with eight software startups at three distinct startup evolution stages proposed by Klotins et al. [19] i.e. stabilization, growth, and maturity. We primarily collected data through semi-structured interviews. Moreover, using thematic analysis [20], we analyze and report how startups perceive analytics, and what challenges appear. In this regard, we identify the current understanding of analytics by software startups and 22 analytics challenges classified into six main themes.
+Our research presents twofold contributions. Firstly, it presents the conceptual understanding of analytics by software startups. Secondly, it presents the barriers and challenges that startups face across different stages of the startup life cycle while implementing analytics in their specialized contexts. Our research contributions are interesting to both startup practitioners and researchers. Practitioners can apprise themselves with analytics and anticipate the expected barriers, allowing them to understand the pitfalls to avoid. Similarly, our results also show prospective areas of research where startup researchers can contribute to educating startups and help them mitigate barriers by proposing relevant analytics practices.
+This paper is organized as follows: Section 2 presents a concise background and related work on analytics in software startups. Section 3 reports our research approach. Likewise, Section 4 demonstrates the cross-case findings, according to our research questions. Section 5 presents a discussion of the results and relates the findings with the existing literature. Lastly, Section 6 presents the conclusions of the study.
+Section snippets
+Analytics
+The term analytics has become a buzzword because of its diverse use in scientific as well as practitioner literature of various domains. We often come across different variants of this term. While diverse fields of Software Engineering (SE) as well as business, are employing analytics, multiple definitions exist in the literature. In a recent article, Delena and Ram [21] concluded that there is no consensus on a single definition of analytics, showing the multifaceted nature of analytics.
+Research approach
+This section provides a detailed research approach that we undertook to conduct the current study. In particular, the following subsections define the research method, case selection, interview protocol, data collection, and analysis. Lastly, threats to the generalizability of the study findings are discussed.
+RQ1: What does analytics mean to software startups?
+Our results reveal different views of startups on the understanding of analytics as a concept. Most software startups perceive it as a process of collection, analysis, interpretation, and understanding of data for data-driven decisions and evaluating business strategies. For example, one interviewee from C1 highlighted its data collection and analysis characteristics: “[Analytics] is analysis ... you analyze what you love and in order to do analysis, you need to acquire information.” The other
+Conceptual understanding of analytics in software startups
+Our results regarding the RQ1 report varied perceptions of startups regarding analytics. Most view it as the process to drive data-driven decisions and evaluate business strategies. Some define it metaphorically, while others associate it with tools. The key characteristics include understanding and interpreting data, supporting decision-making and insight generation, association with tools, and independence from technology.
+From a conceptual viewpoint, we find that the majority of startups we
+Conclusions
+We present this study intending to report a conceptual understanding of analytics of software startups and identify critical analytics challenges that startups face. These two aims are relevant to each other in the sense that the understanding of the concept introduces a boundary to employ strategic approaches to analytics. Identifying challenges to the implementation of analytics could anticipate practical barriers that may hamper the practical application of analytics for startups.
+Our results 
+CRediT authorship contribution statement
+Usman Rafiq: Writing – review & editing, Writing – original draft. Xiaofeng Wang: Writing – review & editing, Writing – original draft. Eduardo Guerra: Writing – review & editing, Writing – original draft.
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+References (56)
+M. Kim et al.
+The emerging role of data scientists on software development teams
+K. Biesialska et al.
+Big Data analytics in Agile software development: A systematic mapping study
+Inf. Softw. Technol.
+(2021)
+R. Vidgen et al.
+Management challenges in creating value from business analytics
+European J. Oper. Res.
+(2017)
+J. Melegati et al.
+HyMap: Eliciting hypotheses in early-stage software startups using cognitive mapping
+Inf. Softw. Technol.
+(2022)
+H. Zaheer et al.
+Straight from the horse’s mouth: Founders’ perspectives on achieving ‘traction’ in digital start-ups
+Comput. Hum. Behav.
+(2019)
+H. Chen et al.
+Business intelligence and analytics: from big data to big impact
+MIS Q.
+(2012)
+T.H. Davenport et al.
+Analytics at Work: Smarter Decisions, Better Results
+(2010)
+R. Sharma et al.
+Transforming decision-making processes: a research agenda for understanding the impact of business analytics on organisations
+Eur. J. Inf. Syst.
+(2014)
+S. LaValle et al.
+Big data, analytics and the path from insights to value
+MIT Sloan Manag. Rev.
+(2010)
+T. May
+The New Know: Innovation Powered by Analytics
+(2009)
+
+View more references
