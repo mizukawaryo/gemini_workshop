@@ -1,0 +1,62 @@
+Analysis of Logistics Startups Development in the EU Countries and Ukraine
+Authors
+Kateryna Boiarynova
+National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
+https://orcid.org/0000-0001-5879-2213
+Катерина Копішинська
+Національний технічний університет України "Київський політехнічний інститут імені Ігоря Сікорського"
+DOI: https://doi.org/10.15407/scine17.02.105
+Keywords: Keywords: startups, logistics startups, Logistics Performance Index, Startup Ecosystem, cluster, roadmap
+Abstract
+Introduction. Accelerating technological development is a driving force of innovative entrepreneurship in
+all areas. Young and creative people offer to the market their non-standard solutions in the form of startup
+projects. Currently, the development of a startup ecosystem reflects country’s interest in and promotion of new
+technologies.
+Problem Statement. The efficiency of transport and logistics activities reflects the development of the infrastructure of a country as a whole and significantly affects the efficiency of economic activities. The development and implementation of logistics startups, given the experience of advanced economies, may help find solutions to certain problems of industry and its further development.
+Purpose. The purpose is to analyze the market of logistics startups of the EU Member States and Ukraine, to
+determine the directions of its further development.
+Materials and Methods. In the research, general and special methods have been used: analysis and synthesis
+for determining the sectoral structure of formation and development of startups in the EU and Ukraine; correlation analysis for establishing the dependence between the indicators of development of startup ecosystems and indices of logistic activity of countries, grouping for distributing logistic startups of the EU and Ukraine countries by clusters; graphical method for designing a roadmap for logistics startup development.
+Results. The current sectoral structure of the EU and Ukrainian startups has been researched, the share of
+transport and logistics projects has been determined. The EU and Ukraine rankings in terms of the indicators of the development of startup ecosystems and logistic activity have been analyzed. The correlation analysis has shown a sufficiently close relationship between countries' ratings of startup ecosystems and logistics activity. The main
+logistics startups of the EU and Ukrainian countries are grouped in certain clusters of logistics startups. A roadmap for the development of logistics and transport startups for the EU and Ukraine has been proposed.
+Conclusions. To date, logistics startups are not among the priorities for the market development in the EU and Ukraine. However, logistical activity in the country may be not only one of the areas where startups are developed, but also a part to the infrastructure of the startup ecosystem. Both the EU Member States and Ukraine are expected to develop startups in high-tech clusters in the future.
+
+Downloads
+
+References
+Sword, A. (2019). European logistics start-ups to watch in 2019. URL: https://edelivery.net/2019/01/6-european-logistics-start-ups-watch-2019/. (Last accessed: 06.04.2020).
+
+Wyman, O. (2017). Velocity Travel Transport Logistics. URL: https://www.oliverwyman.fr/content/dam/oliver-wyman/europe/france/fr/Publications/Velocity_Travel_Transport_Logistics_2017.pdf (Last accessed: 30.10.2019).
+
+Wengler, S., Biermann, Ph. (2018). Logistics Startups Are Booming. URL: https://www.simon-kucher.com/tr/blog/logistics-startups-are-booming (Last accessed: 06.04.2020).
+
+Khromova, D. D., Antonenko, K. V. (2018). Current world trends in the development of startups on the world stage. Scientific Bulletin of Uzhgorod National University, 19(3), 123-127.
+
+Babiachok, R. I., Kulchytskyi, I. I. (2018). The main trends in the development of startups in Ukraine: problems, obstacles and opportunities. URL: https://www.civic-synergy.org.ua/wp-content/uploads/2018/04/Osnovni-tendentsiyirozvytku-startapiv-v-Ukrayini-1-1.pdf (Last accessed: 08.03.2020).
+
+Tech ecosystem guide to Ukraine. (2019). 61 p. URL: https://data.unit.city/tech-guide/Tech_Ecosystem_Guide_To_ Ukraine_En-1.1.pdf (Last accessed: 10.02.2020).
+
+Blank, S., Dorf, B. (2013). The Startup Owner's Manual; trans. From Eng. Moskow: Alpina Publisher. 616 p.
+
+Ries, E. (2011). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. New York: Currency. 336 p.
+
+Notes from the AI frontier: Tackling Europe's gap in digital and AI. (2019). McKinsey Global Institute. 60 p.
+
+Innovate Europe: Competing for global innovation leadership. (2019). Insight Report. World Economic Forum in collaboration with McKinsey & Company. 44 p.
+
+Innovation in Europe: Changing the game to regain a competitive edge. (2019). McKinsey Global Institute. 28 p.
+
+Shifting patterns: The future of the logistics industry.(2016). PwC's future in sight series. 20 p. URL: http://www.pwc. com/futureinsight. (Last accessed: 06.04.2020).
+
+EU Startup Monitor. Report. (2018). 36 p. URL: http://startupmonitor.eu/EU-Startup-Monitor-2018-Report-WEB. pdf (Last accessed: 06.04.2020).
+
+Einride official web-site. URL: https://www.einride.tech/ (Last accessed: 06.04.2020).
+
+StartupBlink Ecosystem Ranking. (2019). URL: https://www.startupblink.com/startups/kiev+ukraine (Last accessed: 30.12.2019).
+
+European start-ups secure over EUR160 million of investment capital. (2018). URL: https://www.supplychainmovement.com/european-startups-secure-eur160-million-investment-capital/ (Last accessed: 06.04.2020).
+
+Logistics Performance Index. (2018). The World Bank. URL: https://lpi.worldbank.org/international/scorecard (Last accessed: 06.04.2020).
+
+Coefficient of variation. URL: https://en.wikipedia.org/wiki/Coefficient_of_variation (Last accessed: 06.02.2020).
